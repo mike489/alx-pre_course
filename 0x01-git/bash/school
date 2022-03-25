@@ -1,2 +1,2 @@
 #!/bin/bash
-eacho "school"
+eacho "The school is open!"
